@@ -4,7 +4,7 @@
 
 import random
 
-#This section is a conditional statment (AKA an "if then" or "if else" statement).
+#This section is a conditional statement (AKA an "if then" or "if else" statement).
 #These are used for giving your code specific directions based on whatever rules you
 #set for it. There are three different types of conditional statements.
 
