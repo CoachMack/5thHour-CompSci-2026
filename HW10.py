@@ -1,4 +1,4 @@
-#Name: Coach Mack
+#Name:
 #Class: 5th Hour
 #Assignment: HW10
 
