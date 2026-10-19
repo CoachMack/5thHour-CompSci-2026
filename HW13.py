@@ -1,6 +1,6 @@
 #Name:
 #Class: 5th Hour
-#Assignment: HW11
+#Assignment: HW13
 
 #1. Import the random function
 
